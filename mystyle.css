@@ -1,0 +1,59 @@
+/* div {
+}
+*/
+
+/* #card {
+     background-color: green; height: 150px; width: 135px;margin: 0 auto;
+} */
+
+.card {
+    background-color: green;
+    height: 150px;
+    width: 135px;
+    margin: 0 auto;
+}
+
+.card-img-border {
+    background-color: rgb(160, 18, 18);
+    border-radius: 50px;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+}
+
+.margin0 {
+    margin: 0 auto
+}
+
+.element-group {
+    justify-content: space-around;
+    display: flex;
+}
+
+.element-grass {
+    text-align: center;
+    color: greenyellow;
+}
+
+.element-poison {
+    text-align: center;
+    color: purple;
+}
+
+.card-pokemon-name{
+    text-align: center;
+}
+
+
+
+
+/* .element-group div{
+
+}
+.element-group.card{
+
+}
+
+.a, .b, .c{
+
+} */
